@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "Abstract",
+        "subtitle" : "Examples: Draughts, chess, Go, Tak, Shobu, Hive, Santorini, Azul and its sequels.",
+        "image_url" : "https://content.instructables.com/ORIG/FVA/FWCE/FD80BVWN/FVAFWCEFD80BVWN.jpg?auto=webp&fit=bounds&frame=1&width=620",
+        "detail" : "Board games with no theme at all, or what theme is offered is so disconnected from the actual experience of playing that it might as well not be there. Draughts and Go are the purest examples of abstracts, while chess - with its set of named pieces and suggestion of historical warfare - is relatively thematic by the standards of the category."
+    },
+
+    {
+        "title" : "Deckbuilder",
+        "subtitle" : "Examples: Dominion, Star Realms, Undaunted: Normandy, Harry Potter: Hogwarts Battle.",
+        "image_url" : "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dominospiel.JPG",
+        "detail" : "Each player starts with their own identical deck of cards, but alters it during play, with more powerful cards being added to the deck and less powerful ones removed. Deckbuilders are sometimes conflated with deck construction games such as trading card games, with the difference being that in deckbuilders the act of creating and customising your deck is part of the core gameplay experience, instead of something that usually happens away from the table between plays."
+    },
+
+    {
+        "title" : "Roll-and-move",
+        "subtitle" : "Examples: Monopoly, The Game of Life, Snakes and Ladders, Formula D.",
+        "image_url" : "https://m.media-amazon.com/images/I/81ulVJ4t8-L._SX355_.jpg",
+        "detail" : "Board games where you roll one or more dice and move that many spaces - commonly on a looping track of spaces, or a path with a start and finish. Often landing on certain spaces will trigger specific actions or offer the player certain gameplay options. Simple as that."
+    },
+
+    {
+        "title" : "Social deduction",
+        "subtitle" : "Examples: Blood on the Clocktower, One Night Ultimate Werewolf, The Resistance.",
+        "image_url" : "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/5854753/b66553f114b91d1264e5323cc3262b1313f7cdde.jpg",
+        "detail" : "One or more players around the table have a secret, and the rest of you need to figure out who! Expect lying, bluffing and wild accusations all round. Players are often secretly assigned hidden roles that only they know, and must achieve their own objectives - commonly either finding the odd one out, or hiding the fact that you are the odd one out yourself."
+    }
+
+]
